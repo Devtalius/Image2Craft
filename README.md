@@ -35,11 +35,12 @@ Minecraft on left, original on right
 ## Usable Blocks
 
 #### Type them exactly like these
+
 | acacia_planks | birch_planks | blackstone |
 | - | - | - |
-| black_concrete || black_concrete_powder || black_glazed_terracotta |
-| black_terracotta || black_wool || blue_concrete |
-| blue_concrete_powder || blue_glazed_terracotta || blue_ice |
+| black_concrete | black_concrete_powder | black_glazed_terracotta |
+| black_terracotta | black_wool | blue_concrete |
+| blue_concrete_powder | blue_glazed_terracotta | blue_ice |
 | blue_terracotta || blue_wool || bricks |
 | brown_concrete || brown_concrete_powder || brown_glazed_terracotta |
 | brown_terracotta || brown_wool || chiseled_polished_blackstone |
