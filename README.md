@@ -1,7 +1,7 @@
 
 ![Alt text](https://i.imgur.com/r9DAdGj.png "")
 ## Convert any image into an minecraft art in game!
-Everything is done as an python library, but you can also download the user version, to just have fun with it
+Download in the releases tab
 ## Minecraft art VS their originals made by Img2Craft
 
 Minecraft on left, original on right
@@ -17,12 +17,12 @@ Minecraft on left, original on right
 
 # Functionality
 #### Possibilities
-- You can generate mcfunctions or datapacks
+- You can generate datapacks
 - You can make a mcfunction for each photo in a folder
-- You can choose which blocks are used in a build, by including the blocks separated by comma in the config file (user build) or as a list in the function (dev build). Alternatively just use the default blocks (Concrete, Wool)
-- List of usable blocks is below included in a table
+- You can choose which blocks are used in a build or just use the default blocks (Concrete, Wool)
+- List of usable blocks is below, included in a table
 #### Limitations
-- Bigger images than 500x500 can make minecraft lag a little, 1000x1000 and more can crash the game (this is caused by the minecraft optimalization)
+- Bigger images than 500x500 can make minecraft lag a little (and take few minutes to generate in the world), 1000x1000 and more can crash the game (this is caused by the minecraft optimalization)
 
 
 
@@ -78,15 +78,10 @@ Minecraft on left, original on right
 | white_wool || yellow_concrete || yellow_concrete_powder |
 | yellow_glazed_terracotta || yellow_terracotta || yellow_wool |
 
-# How to install
+# How to install :arrows_counterclockwise:
 
-### Developer version :wrench:
 
-Simply install the package from pypi using: 
 
-``` 
-pip install Image2Craft 
-```
-### User version :hammer:
+Download pack in releases tab, every instruction is included in the IMPORTANT.txt
 
-Install python and download the latest release in releases tab, then run the setup.bat and Maker.py using IDLE
+Works with any version of minecraft that supports mcfunctions
