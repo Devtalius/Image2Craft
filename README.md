@@ -85,3 +85,6 @@ Minecraft on left, original on right
 Download pack in releases tab, every instruction is included in the IMPORTANT.txt
 
 Works with any version of minecraft that supports mcfunctions
+# Contributing
+
+Open an issue and describe the functionality that you want to add, attach code, screenshoots etc.
